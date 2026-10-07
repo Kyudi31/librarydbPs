@@ -1,6 +1,6 @@
 package com.example.librarydb.service;
 // Clase que contendrá los métodos para la demostración de Pruebas unitarias
-public class CalculadoraBasica {
+public class CalculadoraBasica{
     public Double sumar(Double a, Double b){
         if (a == null || b == null){
             return null;
